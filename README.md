@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills & Interests
 - Programming: **Python, C++, Bash, Git**  
-- Math: **Linear Algebra, Group Theory, Numerical Methods**  
+- Math: **Linear Algebra and Group Theory**  
 - Areas of interest: **Software Engineering, Software Development, Applied Computer Science, Quantum Computing, Cybersecurity, FinTech**
 
 ---
