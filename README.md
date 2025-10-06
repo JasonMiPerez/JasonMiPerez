@@ -1,6 +1,6 @@
 # Hi, I’m Jason 👋
 
-🎓 **Computer Engineering undergraduate at CCNY**  
+🎓 **Computer Engineering undergraduate at CCNY with 4.0 GPA**  
 🔬 Research experience in **quantum computing** (group theory, linear algebra, programming)  
 💻 Strong foundation in **Python**, **C++**, algorithms, and data structures  
 🚀 Actively seeking **software engineering internships** (open to all CS-related roles)
