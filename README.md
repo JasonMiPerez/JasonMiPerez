@@ -20,7 +20,7 @@ I worked as a full-stack software developer on Course Trek, an AI-enabled course
 
 ### ML-Guided Quantum Circuit Synthesis Parameter Optimization
 
-I have worked as an undergraduate researcher in the Secure & Reliable Systems Laboratory on machine-learning-guided parameter optimization for quantum circuit synthesis workflows. My work involved Python-based research tools for dataset generation, feature extraction, model training, evaluation, result analysis, and scikit-learn model development.
+I have worked as an undergraduate researcher in the [Secure & Reliable Systems Laboratory](https://sers.ccny.cuny.edu/jason-perez/) on machine-learning-guided parameter optimization for quantum circuit synthesis workflows. My work involved Python-based research tools for dataset generation, feature extraction, model training, evaluation, result analysis, and scikit-learn model development.
 
 ### Efficient Classical Simulation of Quantum Circuits
 
