@@ -1,33 +1,42 @@
-# Hi, I’m Jason 👋
+# Jason Perez
 
-🎓 **Computer Engineering undergraduate at CCNY with 4.0 GPA**  
-🔬 Research experience in **quantum computing** (group theory, linear algebra, programming)  
-💻 Strong foundation in **Python**, **C++**, algorithms, and data structures  
-🚀 Actively seeking **software engineering internships** (open to all CS-related roles)
+I am a Computer Engineering student at the City College of New York interested in software development, C++, Python, machine learning, quantum computing, and computational research.
 
----
+My work has included full-stack software development, machine-learning-guided quantum circuit synthesis research, classical simulation of quantum circuits, mathematical computing, and lower-level programming through systems and assembly coursework.
 
-## 📚 Selected Coursework
-- **Computer Science:** C++ Programming, Data Structures, Discrete Math, Assembly Language; Algorithms (in progress), Software Design (in progress)  
-- **Mathematics:** Calculus I–III, Linear Algebra, Differential Equations, Probability, Statistics, Statistical Inference  
-- **Electrical Engineering:** Circuits, Switching Systems, Linear Systems Analysis I; Linear Systems Analysis II (in progress), Communication Theory (in progress), EE Lab I (in progress), Electronics I (in progress)  
+## Areas of Interest
 
----
+- Software development in Python, C++, and C
+- Machine learning and scientific computing
+- Quantum computing and quantum circuit simulation
+- Algorithms, data structures, and mathematical computing
+- Digital logic, computer architecture, and systems programming
 
-## 🛠️ Skills & Interests
-- Programming: **Python, C++, Bash, Git**  
-- Math: **Linear Algebra and Group Theory**  
-- Areas of interest: **Software Engineering, Software Development, Applied Computer Science, Quantum Computing, Cybersecurity, FinTech**
+## Experience and Research
 
----
+### Full-Stack Course Planning Software
 
-## 🌟 Projects
-- [Website Blocker](https://github.com/JasonMiPerez/website-blocker) – Cross-platform GUI app with Tkinter + SQLite  
-- [Gaussian Elimination](https://github.com/JasonMiPerez/gaussian-elimination) – C++ CLI solver with rank detection  
-- [Canonical Polyadic Decomposition (ALS)](https://github.com/JasonMiPerez/canonical-polyadic-decomposition) – Python tensor factorization with HOSVD init  
-- [Quantum Math Tools](https://github.com/JasonMiPerez/quantum-math-tools) – Small research-inspired scripts (L1 norm approx, Clifford eigenvectors, SVD)  
+I worked on a full-stack course planning platform using Python, Django, and React. The system involved backend logic for generating optimized multi-semester degree plans using student progress, prerequisites, course availability, and preferences.
 
----
+### Machine Learning for Quantum Circuit Synthesis
 
-📫 **Let’s connect!**  
-[LinkedIn](https://www.linkedin.com/in/jason-michael-perez) • [Email](mailto:JasonMiPerez@gmail.com)
+I have worked on research involving machine-learning-guided parameter optimization for quantum circuit synthesis workflows. This included dataset generation, feature extraction, model training, evaluation, and analysis using Python and scikit-learn.
+
+### Quantum Circuit Simulation and Analysis
+
+I have also worked on research related to the Gottesman-Knill Theorem, efficient classical simulation of quantum circuits, stabilizer methods, Clifford gates, and computational approaches for analyzing quantum circuits and gate sets.
+
+### Mathematical and Computational Tools
+
+I have used Python, SageMath, MATLAB, NumPy, TensorLy, and LaTeX for mathematical modeling, proof writing, tensor decompositions, linear algebra experiments, and quantum computing research.
+
+## Technical Stack
+
+**Languages:** Python, C++, C, MATLAB, Bash, MIPS Assembly, x86-64 Assembly  
+**Libraries/Frameworks:** NumPy, pandas, scikit-learn, Matplotlib, TensorLy, Qiskit, React, Django  
+**Tools:** Git, GitHub, Linux, LaTeX/Overleaf, SageMath, LTspice, Electric VLSI, Multisim, Quartus, ModelSim  
+**Topics:** Machine Learning, Quantum Computing, Algorithms, Data Structures, Linear Algebra, Group Theory, Digital Logic, Circuit Analysis
+
+## Note
+
+Some of my research and internship code is private due to collaboration, publication, or institutional restrictions. I am currently curating public repositories that better reflect my current work and technical interests.
