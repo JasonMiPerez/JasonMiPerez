@@ -14,21 +14,21 @@ My work has included full-stack software development, machine-learning-guided qu
 
 ## Experience and Research
 
-### Full-Stack Course Planning Software
+### Course Trek: AI-Enabled Course Planning Platform
 
-I worked on a full-stack course planning platform using Python, Django, and React. The system involved backend logic for generating optimized multi-semester degree plans using student progress, prerequisites, course availability, and preferences.
+I worked as a full-stack software developer on Course Trek, an AI-enabled course planning platform for generating optimized multi-semester degree plans. The project used Python, Django, and React, with backend logic for student progress, prerequisites, corequisites, course availability, preferences, and genetic-algorithm-based planning.
 
-### Machine Learning for Quantum Circuit Synthesis
+### ML-Guided Quantum Circuit Synthesis Parameter Optimization
 
-I have worked on research involving machine-learning-guided parameter optimization for quantum circuit synthesis workflows. This included dataset generation, feature extraction, model training, evaluation, and analysis using Python and scikit-learn.
+I have worked as an undergraduate researcher in the Secure & Reliable Systems Laboratory on machine-learning-guided parameter optimization for quantum circuit synthesis workflows. My work involved Python-based research tools for dataset generation, feature extraction, model training, evaluation, result analysis, and scikit-learn model development.
 
-### Quantum Circuit Simulation and Analysis
+### Efficient Classical Simulation of Quantum Circuits
 
-I have also worked on research related to the Gottesman-Knill Theorem, efficient classical simulation of quantum circuits, stabilizer methods, Clifford gates, and computational approaches for analyzing quantum circuits and gate sets.
+I have worked on research involving the Gottesman-Knill Theorem, stabilizer methods, Clifford circuits, and efficient classical simulation of quantum circuits. This work included Python, SageMath, and MATLAB programs for computational experiments involving quantum gates, unitary matrices, tensor-product structures, and gate-set analysis.
 
-### Mathematical and Computational Tools
+### Interactive Stabilizer Simulation Tool
 
-I have used Python, SageMath, MATLAB, NumPy, TensorLy, and LaTeX for mathematical modeling, proof writing, tensor decompositions, linear algebra experiments, and quantum computing research.
+I have also developed backend Python logic for an interactive stabilizer-simulation tool demonstrating Clifford gate updates, Pauli-basis measurements, and stabilizer-tableau transformations.
 
 ## Technical Stack
 
